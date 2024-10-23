@@ -1,0 +1,230 @@
+/*
+Main
+*/
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #1A1B1E;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    background-image: url("../img/xbox_games_store1.jpg");
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #969DA8;
+    background-attachment: fixed;
+}
+
+.header, .cards, .search {
+    filter: unset;
+    z-index: 1;
+}
+
+.ea_play, .rating{
+    height: 350px;
+    width: 100%;
+    position: relative;
+}
+.last_release .bg_cards{
+    background-image: url("../img/lr.jpeg");
+    filter: blur(5px);
+    height: 100%;
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.ea_play .bg_cards{
+    background-image: url("../img/ea_play_coast_bg.jpg");
+    filter: blur(5px);
+    height: 100%;
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.rating .bg_cards{
+    background-image: url("../img/rating_bg.jpg");
+    filter: blur(5px);
+    height: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+/*
+Main end
+*/
+
+/*
+Search
+*/
+.search {
+    margin: 10px;
+    width: 100%;
+    height: 50px;
+
+}
+.search_input{
+    position: relative;
+    z-index: 1;
+    margin-left: -20px;
+
+}
+.search_result{
+    background-color: #1A1B1E;
+    position: relative;
+    z-index: 1;
+    padding: 5px;
+    font-size: 10px;
+}
+
+.search input {
+    height: 40px;
+    width: 250px;
+    background-color: #232222;
+    color: #969DA8;
+    padding: 5px 5px 5px 28px;
+    border-radius: 8px;
+    outline: none;
+
+}
+
+.search svg {
+    color: #969DA8;
+    position: relative;
+    left: 28px;
+
+}
+
+.resp_search_img{
+    height: 50px;
+    border-radius: 8px;
+}
+
+.search_img{
+    float: left;
+    margin: 5px 10px 5px 0;
+    height: 100%;
+}
+
+
+.search_result{
+    width: 300px;
+    display: none;
+}
+.search input:focus {
+    border-color: #6CA23D;
+}
+
+
+.sr_box{
+    border-bottom: 1px solid #666060;
+    padding: 5px;
+    height: 82px;
+    text-align: left;
+}
+
+.sr_box:hover{
+    background-color: #2d2f34;
+}
+
+.price_into_search{
+    font-weight: bold;
+    font-size: 12px;
+    color:whitesmoke;
+}
+.title_into_search{
+    font-weight: bold;
+    font-size: 12px;
+    color:whitesmoke;
+}
+/*
+Search end
+*/
+
+
+.last_release{
+    height: 400px;
+    width: 100%;
+    position: relative;
+}
+
+.div_without_bg{
+    height: 350px;
+}
+
+.block_content{
+    width: 100%;
+    position: absolute;
+    top: 0;
+
+}
+
+.body_card img, img{
+    height: 250px;
+    border-radius: 8px;
+    object-fit: cover;
+
+}
+
+.price{
+    position: absolute;
+    bottom:10px;
+    left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #F9F9F9;
+
+}
+
+.price_modal{
+    bottom:10px;
+    left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #F9F9F9;
+
+}
+
+.cards{
+    margin: 10px;
+    display: flex;
+    overflow: auto;
+}
+
+.body_card {
+    position: relative;
+    min-width: 160px;
+    margin: 0 10px;
+    background-color: #F9F9F9;
+    justify-content: space-between;
+    flex-direction: row;
+    border-radius: 8px;
+}
+
+.header {
+    margin: 20px !important;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+pre{ white-space:pre-wrap;
+}
+
+.modal{
+    background-color: #1A1B1E;
+}
+
+.discount_color{
+    background-color: green;
+}
+

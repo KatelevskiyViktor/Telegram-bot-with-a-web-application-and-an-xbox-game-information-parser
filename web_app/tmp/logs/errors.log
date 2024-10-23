@@ -1,0 +1,278 @@
+[2024-09-16 11:57:46] Text error: Controller app\controllers\MainController not found | File: D:\temp_web\osp\home\xbox\vendor\xx\Router.php | String: 77
+================
+[2024-09-16 11:57:46] Text error: require(D:\temp_web\osp\home\xbox/public/errors/development.php): Failed to open stream: No such file or directory | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 68
+================
+[2024-09-16 11:57:46] Text error: Uncaught Error: Failed opening required 'D:\temp_web\osp\home\xbox/public/errors/development.php' (include_path='.;D:/temp_web/osp/data/PHP-8.3/default/composer') in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:68
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(25): xx\ErrorHandler->displayError(2, 'require(D:\\temp...', 'D:\\temp_web\\osp...', 68)
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(68): xx\ErrorHandler->errorHandler(2, 'require(D:\\temp...', 'D:\\temp_web\\osp...', 68)
+#2 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(68): require('D:\\temp_web\\osp...')
+#3 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'Controller app\\...', 'D:\\temp_web\\osp...', 77, 404)
+#4 [internal function]: xx\ErrorHandler->exceptionHandler(Object(Exception))
+#5 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 68
+================
+[2024-09-16 11:57:46] Text error: require(D:\temp_web\osp\home\xbox/public/errors/development.php): Failed to open stream: No such file or directory | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 68
+================
+[2024-09-16 23:04:56] Text error: Page not found | File: D:\temp_web\osp\home\xbox\vendor\xx\Router.php | String: 81
+================
+[2024-09-16 23:04:56] Text error: require(D:\temp_web\osp\home\xbox/public/errors/development.php): Failed to open stream: No such file or directory | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 68
+================
+[2024-09-16 23:04:56] Text error: Uncaught Error: Failed opening required 'D:\temp_web\osp\home\xbox/public/errors/development.php' (include_path='.;D:/temp_web/osp/data/PHP-8.3/default/composer') in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:68
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(25): xx\ErrorHandler->displayError(2, 'require(D:\\temp...', 'D:\\temp_web\\osp...', 68)
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(68): xx\ErrorHandler->errorHandler(2, 'require(D:\\temp...', 'D:\\temp_web\\osp...', 68)
+#2 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(68): require('D:\\temp_web\\osp...')
+#3 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'Page not found', 'D:\\temp_web\\osp...', 81, 404)
+#4 [internal function]: xx\ErrorHandler->exceptionHandler(Object(Exception))
+#5 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 68
+================
+[2024-09-16 23:04:56] Text error: require(D:\temp_web\osp\home\xbox/public/errors/development.php): Failed to open stream: No such file or directory | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 68
+================
+[2024-09-16 23:05:19] Text error: Controller app\controllers\MainController not found | File: D:\temp_web\osp\home\xbox\vendor\xx\Router.php | String: 77
+================
+[2024-09-16 23:05:19] Text error: require(D:\temp_web\osp\home\xbox/public/errors/development.php): Failed to open stream: No such file or directory | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 68
+================
+[2024-09-16 23:05:19] Text error: Uncaught Error: Failed opening required 'D:\temp_web\osp\home\xbox/public/errors/development.php' (include_path='.;D:/temp_web/osp/data/PHP-8.3/default/composer') in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:68
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(25): xx\ErrorHandler->displayError(2, 'require(D:\\temp...', 'D:\\temp_web\\osp...', 68)
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(68): xx\ErrorHandler->errorHandler(2, 'require(D:\\temp...', 'D:\\temp_web\\osp...', 68)
+#2 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(68): require('D:\\temp_web\\osp...')
+#3 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'Controller app\\...', 'D:\\temp_web\\osp...', 77, 404)
+#4 [internal function]: xx\ErrorHandler->exceptionHandler(Object(Exception))
+#5 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 68
+================
+[2024-09-16 23:05:19] Text error: require(D:\temp_web\osp\home\xbox/public/errors/development.php): Failed to open stream: No such file or directory | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 68
+================
+[2024-09-16 23:05:19] Text error: Page not found | File: D:\temp_web\osp\home\xbox\vendor\xx\Router.php | String: 81
+================
+[2024-09-16 23:05:19] Text error: require(D:\temp_web\osp\home\xbox/public/errors/development.php): Failed to open stream: No such file or directory | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 68
+================
+[2024-09-16 23:05:19] Text error: Uncaught Error: Failed opening required 'D:\temp_web\osp\home\xbox/public/errors/development.php' (include_path='.;D:/temp_web/osp/data/PHP-8.3/default/composer') in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:68
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(25): xx\ErrorHandler->displayError(2, 'require(D:\\temp...', 'D:\\temp_web\\osp...', 68)
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(68): xx\ErrorHandler->errorHandler(2, 'require(D:\\temp...', 'D:\\temp_web\\osp...', 68)
+#2 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(68): require('D:\\temp_web\\osp...')
+#3 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'Page not found', 'D:\\temp_web\\osp...', 81, 404)
+#4 [internal function]: xx\ErrorHandler->exceptionHandler(Object(Exception))
+#5 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 68
+================
+[2024-09-16 23:05:19] Text error: require(D:\temp_web\osp\home\xbox/public/errors/development.php): Failed to open stream: No such file or directory | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 68
+================
+[2024-09-16 23:08:39] Text error: Controller app\controllers\MainController not found | File: D:\temp_web\osp\home\xbox\vendor\xx\Router.php | String: 77
+================
+[2024-09-16 23:08:39] Text error: Page not found | File: D:\temp_web\osp\home\xbox\vendor\xx\Router.php | String: 81
+================
+[2024-09-20 20:18:29] Text error: require_once(main): Failed to open stream: No such file or directory | File: D:\temp_web\osp\home\xbox\vendor\xx\View.php | String: 13
+================
+[2024-09-20 20:22:54] Text error: require_once(main): Failed to open stream: No such file or directory | File: D:\temp_web\osp\home\xbox\vendor\xx\View.php | String: 13
+================
+[2024-09-20 20:24:43] Text error: syntax error, unexpected variable "$layout" | File: D:\temp_web\osp\home\xbox\vendor\xx\View.php | String: 13
+================
+[2024-09-20 20:30:01] Text error: require_once(D:\temp_web\osp\home\xbox/app/views/layoutmain): Failed to open stream: No such file or directory | File: D:\temp_web\osp\home\xbox\vendor\xx\View.php | String: 13
+================
+[2024-09-20 20:36:51] Text error: require_once(D:\temp_web\osp\home\xbox/app/views/layouts/main): Failed to open stream: No such file or directory | File: D:\temp_web\osp\home\xbox\vendor\xx\View.php | String: 13
+================
+[2024-09-20 20:38:12] Text error: Undefined constant "PATH_TO_PAGE" | File: D:\temp_web\osp\home\xbox\app\views\layouts\main.php | String: 11
+================
+[2024-09-20 20:38:36] Text error: Undefined variable $page_name | File: D:\temp_web\osp\home\xbox\app\views\layouts\main.php | String: 11
+================
+[2024-09-25 12:36:52] Text error: Call to a member function query() on null | File: D:\temp_web\osp\home\xbox\vendor\xx\Model.php | String: 31
+================
+[2024-09-25 12:37:35] Text error: syntax error, unexpected token "return" | File: D:\temp_web\osp\home\xbox\vendor\xx\Model.php | String: 31
+================
+[2024-09-25 12:41:54] Text error: Call to a member function query() on null | File: D:\temp_web\osp\home\xbox\vendor\xx\Model.php | String: 30
+================
+[2024-09-25 12:43:51] Text error: Call to a member function query() on null | File: D:\temp_web\osp\home\xbox\vendor\xx\Model.php | String: 30
+================
+[2024-09-25 12:46:00] Text error: Call to a member function query() on null | File: D:\temp_web\osp\home\xbox\vendor\xx\Model.php | String: 30
+================
+[2024-09-25 12:46:02] Text error: Call to a member function query() on null | File: D:\temp_web\osp\home\xbox\vendor\xx\Model.php | String: 30
+================
+[2024-09-25 12:47:30] Text error: Call to a member function query() on null | File: D:\temp_web\osp\home\xbox\vendor\xx\Model.php | String: 30
+================
+[2024-09-25 12:56:18] Text error: Optional parameter $data declared before required parameter $class is implicitly treated as a required parameter | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 19
+================
+[2024-09-25 12:58:28] Text error: Optional parameter $data declared before required parameter $class is implicitly treated as a required parameter | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 19
+================
+[2024-09-25 12:58:31] Text error: Optional parameter $data declared before required parameter $class is implicitly treated as a required parameter | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 19
+================
+[2024-09-25 13:01:11] Text error: include(D:\temp_web\osp\home\xbox\vendor\xx/config.php): Failed to open stream: No such file or directory | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 13
+================
+[2024-09-25 13:01:49] Text error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diary.games' doesn't exist | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 21
+================
+[2024-09-25 13:01:49] Text error: Uncaught TypeError: http_response_code(): Argument #1 ($response_code) must be of type int, string given in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:62
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(62): http_response_code('42S02')
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'SQLSTATE[42S02]...', 'D:\\temp_web\\osp...', 21, '42S02')
+#2 [internal function]: xx\ErrorHandler->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 62
+================
+[2024-09-25 13:39:18] Text error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diary.games' doesn't exist | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 21
+================
+[2024-09-25 13:39:18] Text error: Uncaught TypeError: http_response_code(): Argument #1 ($response_code) must be of type int, string given in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:62
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(62): http_response_code('42S02')
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'SQLSTATE[42S02]...', 'D:\\temp_web\\osp...', 21, '42S02')
+#2 [internal function]: xx\ErrorHandler->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 62
+================
+[2024-09-25 13:39:54] Text error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diary.games' doesn't exist | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 21
+================
+[2024-09-25 13:39:54] Text error: Uncaught TypeError: http_response_code(): Argument #1 ($response_code) must be of type int, string given in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:62
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(62): http_response_code('42S02')
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'SQLSTATE[42S02]...', 'D:\\temp_web\\osp...', 21, '42S02')
+#2 [internal function]: xx\ErrorHandler->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 62
+================
+[2024-09-25 13:39:56] Text error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diary.games' doesn't exist | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 21
+================
+[2024-09-25 13:39:56] Text error: Uncaught TypeError: http_response_code(): Argument #1 ($response_code) must be of type int, string given in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:62
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(62): http_response_code('42S02')
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'SQLSTATE[42S02]...', 'D:\\temp_web\\osp...', 21, '42S02')
+#2 [internal function]: xx\ErrorHandler->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 62
+================
+[2024-09-25 13:41:03] Text error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diary.games' doesn't exist | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 22
+================
+[2024-09-25 13:41:03] Text error: Uncaught TypeError: http_response_code(): Argument #1 ($response_code) must be of type int, string given in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:62
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(62): http_response_code('42S02')
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'SQLSTATE[42S02]...', 'D:\\temp_web\\osp...', 22, '42S02')
+#2 [internal function]: xx\ErrorHandler->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 62
+================
+[2024-09-25 13:43:12] Text error: Undefined variable $data | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 19
+================
+[2024-09-25 13:46:08] Text error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diary.games' doesn't exist | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 21
+================
+[2024-09-25 13:46:08] Text error: Uncaught TypeError: http_response_code(): Argument #1 ($response_code) must be of type int, string given in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:62
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(62): http_response_code('42S02')
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'SQLSTATE[42S02]...', 'D:\\temp_web\\osp...', 21, '42S02')
+#2 [internal function]: xx\ErrorHandler->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 62
+================
+[2024-09-25 13:47:01] Text error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diary.games' doesn't exist | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 21
+================
+[2024-09-25 13:47:01] Text error: Uncaught TypeError: http_response_code(): Argument #1 ($response_code) must be of type int, string given in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:62
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(62): http_response_code('42S02')
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'SQLSTATE[42S02]...', 'D:\\temp_web\\osp...', 21, '42S02')
+#2 [internal function]: xx\ErrorHandler->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 62
+================
+[2024-09-25 13:47:03] Text error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diary.games' doesn't exist | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 21
+================
+[2024-09-25 13:47:03] Text error: Uncaught TypeError: http_response_code(): Argument #1 ($response_code) must be of type int, string given in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:62
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(62): http_response_code('42S02')
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'SQLSTATE[42S02]...', 'D:\\temp_web\\osp...', 21, '42S02')
+#2 [internal function]: xx\ErrorHandler->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 62
+================
+[2024-09-25 13:47:11] Text error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diary.games' doesn't exist | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 21
+================
+[2024-09-25 13:47:11] Text error: Uncaught TypeError: http_response_code(): Argument #1 ($response_code) must be of type int, string given in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:62
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(62): http_response_code('42S02')
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'SQLSTATE[42S02]...', 'D:\\temp_web\\osp...', 21, '42S02')
+#2 [internal function]: xx\ErrorHandler->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 62
+================
+[2024-09-25 13:47:13] Text error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diary.games' doesn't exist | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 21
+================
+[2024-09-25 13:47:13] Text error: Uncaught TypeError: http_response_code(): Argument #1 ($response_code) must be of type int, string given in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:62
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(62): http_response_code('42S02')
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'SQLSTATE[42S02]...', 'D:\\temp_web\\osp...', 21, '42S02')
+#2 [internal function]: xx\ErrorHandler->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 62
+================
+[2024-09-25 13:48:32] Text error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diary.games' doesn't exist | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 21
+================
+[2024-09-25 13:50:24] Text error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diary.games' doesn't exist | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 21
+================
+[2024-09-25 13:50:24] Text error: Uncaught TypeError: http_response_code(): Argument #1 ($response_code) must be of type int, string given in D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php:62
+Stack trace:
+#0 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(62): http_response_code('42S02')
+#1 D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php(45): xx\ErrorHandler->displayError('Exception', 'SQLSTATE[42S02]...', 'D:\\temp_web\\osp...', 21, '42S02')
+#2 [internal function]: xx\ErrorHandler->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown | File: D:\temp_web\osp\home\xbox\vendor\xx\ErrorHandler.php | String: 62
+================
+[2024-09-25 13:52:25] Text error: Undefined variable $data | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 19
+================
+[2024-09-25 13:53:27] Text error: Cannot use object of type app\models\Index as array | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 21
+================
+[2024-09-25 13:56:58] Text error: Cannot use object of type app\models\Index as array | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 21
+================
+[2024-09-25 14:00:43] Text error: syntax error, unexpected token "++", expecting ")" | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 19
+================
+[2024-09-25 14:00:50] Text error: syntax error, unexpected token "endforeach" | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 23
+================
+[2024-09-25 14:01:00] Text error: Cannot use object of type app\models\Index as array | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 21
+================
+[2024-09-25 14:05:44] Text error: syntax error, unexpected token "}" | File: D:\temp_web\osp\home\xbox\app\views\layouts\main.php | String: 9
+================
+[2024-09-25 14:06:16] Text error: Using $this when not in object context | File: D:\temp_web\osp\home\xbox\app\views\layouts\main.php | String: 7
+================
+[2024-09-25 14:10:26] Text error: Undefined constant "data" | File: D:\temp_web\osp\home\xbox\app\views\layouts\main.php | String: 7
+================
+[2024-09-25 14:12:51] Text error: Cannot use object of type app\models\Index as array | File: D:\temp_web\osp\home\xbox\app\views\layouts\main.php | String: 7
+================
+[2024-09-26 12:06:07] Text error: Creation of dynamic property app\models\Index::$last_update is deprecated | File: D:\temp_web\osp\home\xbox\vendor\xx\DB.php | String: 22
+================
+[2024-09-26 12:06:40] Text error: Undefined property: app\models\Index::$full_coas | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 23
+================
+[2024-09-28 20:19:59] Text error: syntax error, unexpected token "endforeach", expecting "elseif" or "else" or "endif" | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 31
+================
+[2024-09-28 20:23:06] Text error: syntax error, unexpected token "endforeach", expecting "elseif" or "else" or "endif" | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 31
+================
+[2024-09-28 20:46:19] Text error: Object of class app\models\Index could not be converted to string | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 50
+================
+[2024-09-28 20:47:24] Text error: Object of class app\models\Index could not be converted to string | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 50
+================
+[2024-09-28 20:47:29] Text error: Object of class app\models\Index could not be converted to string | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 50
+================
+[2024-09-28 20:48:40] Text error: Object of class app\models\Index could not be converted to string | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 50
+================
+[2024-09-28 20:54:49] Text error: Unmatched ')' | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 6
+================
+[2024-10-05 11:54:47] Text error: Array to string conversion | File: D:\temp_web\osp\home\xbox\app\controllers\Search.php | String: 10
+================
+[2024-10-05 11:55:07] Text error: Array to string conversion | File: D:\temp_web\osp\home\xbox\app\controllers\Search.php | String: 10
+================
+[2024-10-15 11:00:55] Text error: Attempt to read property "rubles_per_lira" on array | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 7
+================
+[2024-10-15 11:01:10] Text error: Array to string conversion | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 7
+================
+[2024-10-15 11:03:08] Text error: Object of class app\models\CourseTurLira could not be converted to string | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 7
+================
+[2024-10-15 11:08:12] Text error: Attempt to read property "rubles_per_lira" on array | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 7
+================
+[2024-10-15 11:08:24] Text error: Undefined array key 1 | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 7
+================
+[2024-10-15 11:25:44] Text error: Call to undefined function app\controllers\float() | File: D:\temp_web\osp\home\xbox\app\controllers\Index.php | String: 16
+================
+[2024-10-15 11:26:19] Text error: Call to undefined function app\controllers\float() | File: D:\temp_web\osp\home\xbox\app\controllers\Index.php | String: 16
+================
+[2024-10-15 11:26:21] Text error: Call to undefined function app\controllers\float() | File: D:\temp_web\osp\home\xbox\app\controllers\Index.php | String: 16
+================
+[2024-10-15 11:28:05] Text error: Attempt to read property "rubles_per_lira" on float | File: D:\temp_web\osp\home\xbox\app\views\pages\index.php | String: 7
+================
